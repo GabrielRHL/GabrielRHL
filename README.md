@@ -21,7 +21,8 @@
 </p>
 
 <p align="left">
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrhl/)](https://www.linkedin.com/in/gabrielrhl/)
+  <a href="mailto:rochagabriel125@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="https://www.linkedin.com/in/gabrielrhl/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrhl/)](https://www.linkedin.com/in/gabrielrhl/)
