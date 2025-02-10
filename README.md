@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-  Meu nome é Gabriel Rocha Lopes, sou apaixonado por tecnologia e academia.<br> Atualmente trabalho como desenvolvedor freelancer, e estou cursando Sistemas de Informação na PUC Minas, além disso, faço cursos complementares em tecnologias específicas, minha especilidade inclui ReactJs, JavaScript e Python.
+  Meu nome é Gabriel Rocha Lopes, sou apaixonado por tecnologia e academia.<br> Atualmente trabalho como desenvolvedor freelancer, e estou cursando Sistemas de Informação na PUC Minas, além disso, faço cursos complementares em tecnologias específicas. Minha especilidade inclui ReactJs, JavaScript e Python.
 </p>
 <p align="left">
   <a href="#">
