@@ -32,7 +32,7 @@
 </div>
 <br>
 <p align="left">
-  💼 Ferramentas principais: Visual Studio Code & MySQL
+  💼 Ferramentas principais: Visual Studio Code & MySQL Workbench
 </p>
 <br>
 <div align="center">
