@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-  Meu nome é Gabriel Rocha Lopes, sou apaixonado por tecnologia e academia.<br> Atualmente trabalho como desenvolvedor freelancer, e estou cursando Sistemas de Informação na PUC Minas, além disso, faço cursos complementares em tecnologias específicas. Minha especilidade inclui ReactJs, JavaScript e Python.
+  Meu nome é Gabriel Rocha Lopes, tenho 22 anos e sou apaixonado por tecnologia e academia.<br> Atualmente atuo como desenvolvedor freelancer, estou cursando Sistemas de Informação na PUC Minas e conduzo monitoria de Desenvolvimento Web na mesma, além disso, faço cursos complementares em tecnologias específicas. Minha especilidade inclui React.js, TypeScript, JavaScript e Python.
 </p>
 <p align="left">
   <a href="#">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <div align="left">
-  <p>🦄 Tecnologias:</p>
+  <p>🦄 Principais tecnologias:</p>
     <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
       <img width="12" />
@@ -27,14 +27,12 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-      <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     </div>
 </div>
 <br>
 <p align="left">
-  💼 Ferramentas principais: Visual Studio Code & MySQL Workbench
+  💼 Principais ferramentas: Visual Studio Code, MySQL Workbench
 </p>
 <br>
 <div align="center">
